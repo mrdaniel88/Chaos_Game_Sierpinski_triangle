@@ -1,2 +1,0 @@
-# Chaos-Game---Sierpinski-triangle
- 
